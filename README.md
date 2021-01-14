@@ -12,4 +12,4 @@
  https://www.kaggle.com/c/dog-breed-identification   
  
 ## More models implementation  can be viewed  here
-https://github.com/Eximius-Design/DogBreedIdentification/blob/master/
+https://github.com/Eximius-Design/DogBreedIdentification/
