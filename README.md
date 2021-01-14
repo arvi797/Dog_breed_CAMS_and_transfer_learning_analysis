@@ -11,6 +11,5 @@
 ## dataset 
  https://www.kaggle.com/c/dog-breed-identification   
  
-## code and implementation was taken from here
-
+## More models implementation  can be viewed  here
 https://github.com/Eximius-Design/DogBreedIdentification/blob/master/
